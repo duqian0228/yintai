@@ -1,0 +1,22 @@
+body,h1,h2,h3,h4,h5,h6,ol,ul,dl,textarea,input,p,dl,dt,dd,form{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+body{
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration:none;
+	color:#666;
+	font-size: 12px;
+}
+a:hover{
+     color:#E5004F;
+}
+img{
+	border:0;
+}
+input{
+	border:0;
+}
